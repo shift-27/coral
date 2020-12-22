@@ -1,9 +1,5 @@
 #pacman -S vim alsa-utils firefox xorg xorg-xinit xorg-server base-devel make git ranger xcompmgr xwallpaper pywal --noconfirm &&
-
-
-#fetches the files from github
-git clone https://github.com/pidgey-hacker/wm &&
-cd wm/ && 
+ 
 
 #compiles dwm and st(terminal)
 cd dwm-6.2/ &&
