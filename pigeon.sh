@@ -1,4 +1,4 @@
-#pacman -S vim alsa-utils firefox xorg xorg-xinit xorg-server base-devel make git ranger xcompmgr xwallpaper pywal --noconfirm &&
+pacman -S vim alsa-utils firefox xorg xorg-xinit xorg-server base-devel make git ranger xcompmgr xwallpaper pywal --noconfirm &&
  
 
 #compiles dwm and st(terminal)
