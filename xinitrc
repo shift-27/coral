@@ -1,4 +1,4 @@
-xwallpaper --focus Downloads/Wallpaper.jpg &
-wal -i Downloads/Wallpaper.jpg &
+xwallpaper --focus /root/Downloads/Wallpaper.jpg &
+wal -i /root/Downloads/Wallpaper.jpg &
 xcompmgr & 
 exec dwm
